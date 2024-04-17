@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7GVAXq1LR0eHqwiQAezY1Hya5Gs+gmsfXIMj7G1UGopJ+NP2fwhK/ei8Hgn9ZOIpbxUwzhPjTxgMjPH3nCoaQw==",
+  "dgSpecHash": "9FxNSxFxGz/jJ4BqGn5U/fvKPz6D6flneVvghC49t111kK95xiCjkoMQHHzH/07cWWvBnbLO56eT+tKxiYWMrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\UnitTestsRankingTableLeague\\UnitTestsRankingTableLeague.csproj",
+  "projectFilePath": "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\UnitTestsRankingTableLeague\\UnitTestsRankingTableLeague.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ZXMC\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\ZXMC\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

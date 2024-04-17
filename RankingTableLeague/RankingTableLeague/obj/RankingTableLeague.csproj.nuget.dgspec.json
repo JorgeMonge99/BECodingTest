@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj": {}
+    "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj": {
+    "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj",
+        "projectUniqueName": "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj",
         "projectName": "RankingTableLeague",
-        "projectPath": "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj",
+        "projectPath": "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj",
         "packagesPath": "C:\\Users\\ZXMC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\RankingTableLeague\\obj\\",
+        "outputPath": "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\RankingTableLeague\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZXMC\\AppData\\Roaming\\NuGet\\NuGet.Config",

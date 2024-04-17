@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UnitTestsRankingTableLeague
-build_property.ProjectDir = C:\Users\ZXMC\source\repos\BE_Coding_Test_With_Unit_test\RankingTableLeague\UnitTestsRankingTableLeague\
+build_property.ProjectDir = C:\Users\ZXMC\Downloads\PortableGit\BECodingTest\RankingTableLeague\UnitTestsRankingTableLeague\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

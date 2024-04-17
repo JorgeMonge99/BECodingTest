@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\UnitTestsRankingTableLeague\\UnitTestsRankingTableLeague.csproj": {}
+    "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\UnitTestsRankingTableLeague\\UnitTestsRankingTableLeague.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj": {
+    "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj",
+        "projectUniqueName": "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj",
         "projectName": "RankingTableLeague",
-        "projectPath": "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj",
+        "projectPath": "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj",
         "packagesPath": "C:\\Users\\ZXMC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\RankingTableLeague\\obj\\",
+        "outputPath": "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\RankingTableLeague\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZXMC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\UnitTestsRankingTableLeague\\UnitTestsRankingTableLeague.csproj": {
+    "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\UnitTestsRankingTableLeague\\UnitTestsRankingTableLeague.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\UnitTestsRankingTableLeague\\UnitTestsRankingTableLeague.csproj",
+        "projectUniqueName": "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\UnitTestsRankingTableLeague\\UnitTestsRankingTableLeague.csproj",
         "projectName": "UnitTestsRankingTableLeague",
-        "projectPath": "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\UnitTestsRankingTableLeague\\UnitTestsRankingTableLeague.csproj",
+        "projectPath": "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\UnitTestsRankingTableLeague\\UnitTestsRankingTableLeague.csproj",
         "packagesPath": "C:\\Users\\ZXMC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\UnitTestsRankingTableLeague\\obj\\",
+        "outputPath": "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\UnitTestsRankingTableLeague\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZXMC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj": {
-                "projectPath": "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj"
+              "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj": {
+                "projectPath": "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj"
               }
             }
           }

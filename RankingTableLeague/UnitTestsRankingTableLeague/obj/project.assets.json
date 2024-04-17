@@ -1090,11 +1090,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\UnitTestsRankingTableLeague\\UnitTestsRankingTableLeague.csproj",
+      "projectUniqueName": "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\UnitTestsRankingTableLeague\\UnitTestsRankingTableLeague.csproj",
       "projectName": "UnitTestsRankingTableLeague",
-      "projectPath": "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\UnitTestsRankingTableLeague\\UnitTestsRankingTableLeague.csproj",
+      "projectPath": "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\UnitTestsRankingTableLeague\\UnitTestsRankingTableLeague.csproj",
       "packagesPath": "C:\\Users\\ZXMC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\UnitTestsRankingTableLeague\\obj\\",
+      "outputPath": "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\UnitTestsRankingTableLeague\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ZXMC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1111,8 +1111,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj": {
-              "projectPath": "C:\\Users\\ZXMC\\source\\repos\\BE_Coding_Test_With_Unit_test\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj"
+            "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj": {
+              "projectPath": "C:\\Users\\ZXMC\\Downloads\\PortableGit\\BECodingTest\\RankingTableLeague\\RankingTableLeague\\RankingTableLeague.csproj"
             }
           }
         }
