@@ -125,7 +125,6 @@ C:\Users\ZXMC\Downloads\PortableGit\BECodingTest\RankingTableLeague\UnitTestsRan
 C:\Users\ZXMC\Downloads\PortableGit\BECodingTest\RankingTableLeague\UnitTestsRankingTableLeague\bin\Debug\net8.0\RankingTableLeague.deps.json
 C:\Users\ZXMC\Downloads\PortableGit\BECodingTest\RankingTableLeague\UnitTestsRankingTableLeague\bin\Debug\net8.0\RankingTableLeague.runtimeconfig.json
 C:\Users\ZXMC\Downloads\PortableGit\BECodingTest\RankingTableLeague\UnitTestsRankingTableLeague\bin\Debug\net8.0\RankingTableLeague.exe
-C:\Users\ZXMC\Downloads\PortableGit\BECodingTest\RankingTableLeague\UnitTestsRankingTableLeague\bin\Debug\net8.0\inputGamesResult.txt
 C:\Users\ZXMC\Downloads\PortableGit\BECodingTest\RankingTableLeague\UnitTestsRankingTableLeague\bin\Debug\net8.0\UnitTestsRankingTableLeague.deps.json
 C:\Users\ZXMC\Downloads\PortableGit\BECodingTest\RankingTableLeague\UnitTestsRankingTableLeague\bin\Debug\net8.0\UnitTestsRankingTableLeague.runtimeconfig.json
 C:\Users\ZXMC\Downloads\PortableGit\BECodingTest\RankingTableLeague\UnitTestsRankingTableLeague\bin\Debug\net8.0\UnitTestsRankingTableLeague.dll
@@ -235,3 +234,4 @@ C:\Users\ZXMC\Downloads\PortableGit\BECodingTest\RankingTableLeague\UnitTestsRan
 C:\Users\ZXMC\Downloads\PortableGit\BECodingTest\RankingTableLeague\UnitTestsRankingTableLeague\obj\Debug\net8.0\UnitTestsRankingTableLeague.pdb
 C:\Users\ZXMC\Downloads\PortableGit\BECodingTest\RankingTableLeague\UnitTestsRankingTableLeague\obj\Debug\net8.0\UnitTestsRankingTableLeague.genruntimeconfig.cache
 C:\Users\ZXMC\Downloads\PortableGit\BECodingTest\RankingTableLeague\UnitTestsRankingTableLeague\obj\Debug\net8.0\ref\UnitTestsRankingTableLeague.dll
+C:\Users\ZXMC\Downloads\PortableGit\BECodingTest\RankingTableLeague\UnitTestsRankingTableLeague\bin\Debug\net8.0\inputResultsGames.txt

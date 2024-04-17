@@ -16,12 +16,12 @@ namespace RankingTableLeague
             rankingTable = new Dictionary<string, int>();
             rankingTableFormattedList = new List<string>();
         }
-       public List<string> CreateRanking(string pathDocumentGamesResult)
+       public List<string> CreateRanking(string pathDocumentResultsGames)
         {
             String lineGameRegister;
             try
             {
-                StreamReader documentResultsGames = new StreamReader(pathDocumentGamesResult);
+                StreamReader documentResultsGames = new StreamReader(pathDocumentResultsGames);
                 lineGameRegister = documentResultsGames.ReadLine();
                 while (lineGameRegister != null)
                 {
