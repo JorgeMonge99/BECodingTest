@@ -30,9 +30,9 @@ namespace RankingTableLeague
                 }
                 documentResultsGames.Close();
 
-                var RankingTableOrdened = rankingTable.OrderByDescending(team => team.Value).ThenBy(team => team.Key);
+                var RankingTableOrdered = rankingTable.OrderByDescending(team => team.Value).ThenBy(team => team.Key);
                 
-                AssignRankingPosition(RankingTableOrdened);
+                AssignRankingPosition(RankingTableOrdered);
             }
             catch (Exception e){
                 Console.WriteLine("Exception: " + e.Message);
@@ -83,13 +83,13 @@ namespace RankingTableLeague
             rankingTable[nameTeam2] = newPointsTeam2;
         }
 
-        private void AssignRankingPosition(IOrderedEnumerable<KeyValuePair<string, int>> RankingTableOrdened)
+        private void AssignRankingPosition(IOrderedEnumerable<KeyValuePair<string, int>> RankingTableOrdered)
         {
             string beforeTeamPoints = "";
             int rankingPosition = 0;
             int position = 0;
 
-            foreach (var team in RankingTableOrdened)
+            foreach (var team in RankingTableOrdered)
             {
                 string currentTeamPoints = team.Value.ToString();
                 string currentTeamName = team.Key.ToString();
